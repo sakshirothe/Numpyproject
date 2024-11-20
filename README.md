@@ -1,2 +1,2 @@
 # Numpyproject
-Creating  numpy function with methods
+Creating  numpy library with all its methods and function
